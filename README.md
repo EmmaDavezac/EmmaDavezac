@@ -39,7 +39,6 @@ de LinkedIn.
 
 ## 📊 GitHub Stats
 
-![EmmaDavezac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmaDavezac&show_icons=true&theme=tokyonight&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaDavezac&layout=compact&theme=tokyonight)
 
 ---
