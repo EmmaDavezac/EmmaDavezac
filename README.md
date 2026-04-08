@@ -22,7 +22,7 @@ Soy desarrollador con experiencia en **.NET (C#)** y **Python (Flask)** para el 
      Tecnologias utilizadas:C#, SQL Server, Entity Framework, Winforms, Quartz y OpenLibrary.
 - 🔹 [**IndiAr**](https://github.com/EmmaDavezac/IndiAr): Plataforma orientada a la difusión de artistas independientes.
      Tecnologias utilizadas:Python, Flask, MySQL,Bootstrap y Vue.js.
-- 🔹 [**Posta**](https://www.linkedin.com/in/emmanuel-davezac/): Proyecto mobile enfocado en UX/UI, disponible en mi perfil 
+- 🔹 [**Posta**](https://www.linkedin.com/posts/emmanuel-davezac_me-alegra-compartir-que-he-trabajado-en-este-activity-7313998136169893888-ZSuN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOiXbwBNjP7fOBf0upMAyJj8obO_X_b2AY): Proyecto mobile enfocado en UX/UI, disponible en mi perfil 
 de LinkedIn.
 
 ---
