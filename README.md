@@ -13,7 +13,7 @@
 
 Trabajando como **becario investigador** en el **GIBD** (Grupo de Investigación de Bases de Datos, UTN-FRCU) — desarrollando el sitio del grupo que reúne papers, noticias, miembros y demos de los modelos desarrollados → [gibd.vercel.app](https://gibd.vercel.app/)
 
-Recién recibido como **Analista en Sistemas** (UTN-FRCU, 2026) con **SGA** (Sistema de Gestión Aduanera) como proyecto de graduación. Cursando el último cuatrimestre de **Ingeniería en Sistemas de Información** (UTN-FRCU).
+Recién recibido como **Analista en Sistemas** (UTN-FRCU, 2026) con **SGA** (Sistema de Gestión Aduanera) como proyecto final de carrera. Cursando el último cuatrimestre de **Ingeniería en Sistemas de Información** (UTN-FRCU).
 
 ---
 
