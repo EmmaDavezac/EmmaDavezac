@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Emmanuel+Davezac+%F0%9F%91%8B;Analista+en+Sistemas+%7C+UTN+%F0%9F%8E%93;Fullstack+Developer+%7C+Foco+en+Backend;Seguridad+%7C+DevOps+%7C+Automatizacion+RPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Emmanuel+Davezac;Analista+en+Sistemas+%7C+UTN+%F0%9F%8E%93;Fullstack+Developer;Seguridad+%7C+DevOps+%7C+Automatizacion+RPA)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=EmmaDavezac&style=flat-square&color=58a6ff" alt="Profile views"/>
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-58A6FF?style=flat-square)
+<img src="https://img.shields.io/badge/status-Open%20to%20Work-58A6FF?style=flat-square" alt="Open to Work"/>
 
 </div>
 
